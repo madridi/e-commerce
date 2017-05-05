@@ -1,5 +1,6 @@
+const pug = require('pug')
 module.exports = {
   accueil: function(req, res) {
-    res.send('Hello Word')
+    res.render('index');
   }
 };
