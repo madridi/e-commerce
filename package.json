@@ -12,6 +12,9 @@
     "body-parser": "1.17.1",
     "compression": "1.6.2",
     "express": "4.15.2",
+    "grunt": "^1.0.1",
+    "grunt-nodemon": "0.4.2",
+    "mongoose": "4.9.7",
     "morgan": "1.8.1",
     "pug": "2.0.0-rc.1"
   }
